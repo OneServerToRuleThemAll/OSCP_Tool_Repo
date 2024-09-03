@@ -1,4 +1,4 @@
-# OSCP_Tool_Repo
+# OSCP Tool Repo
 Quick and dirty repo of tools for the OSCP. This list is not exhaustive, its pretty shit, but can get you running with (some of) the essentials from a fresh install.
 
 This is just a copy/paste of all the tools/scripts that I had laying around in my OSCP folders after completing the training. Some may be widely useful, others may be extremely niche. I will not be including things installed by default on kali
