@@ -1,0 +1,2 @@
+[console_scripts]
+kyubi = kyubi.core:main
