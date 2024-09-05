@@ -18,6 +18,8 @@ Utilities
 
 WebShells
 
+OSCP Useful resources
+
 # AD Specific
 This contains Kerbrute, adPEAS, SharpHound (bloodhound), and StandIn
 
@@ -56,3 +58,6 @@ This contains: Ligolo-NG (proxy binary for Linux, and agent binaries for Linux/W
 A lot of these can be found in /usr/share/webshells but I copied them all here for convienence. Make sure to change and IP/Port/target/etc in the file so it works as expected.
 
 This includes shells for: asp, apsx, java, perl, and php.
+
+# OSCP Useful Resources
+A non-exhaustive list of links to resources that can provide further learning and utility for the OSCP and beyond.
