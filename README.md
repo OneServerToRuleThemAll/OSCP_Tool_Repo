@@ -1,7 +1,7 @@
 # OSCP Tool Repo
 Quick and dirty repo of tools for the OSCP. This list is not exhaustive, its pretty shit, but can get you running with (some of) the essentials from a fresh install.
 
-This is just a copy/paste of all the tools/scripts that I had laying around in my OSCP folders after completing the training. Some may be widely useful, others may be extremely niche. I will not be including things installed by default on kali
+This is just a copy/paste of all the tools/scripts that I had laying around in my OSCP folders after completing the training. Some may be widely useful, others may be extremely niche. I will not be including things installed by default on kali.
 
 Do your own research. If you're not sure what a tool is/does, Google it. I do not own or claim to have created any of these files/scripts/tools/etc.
 
@@ -37,7 +37,7 @@ This contains two categories: Linux and Windows
 
 Linux:
 
-This contains: LinEnum.sh, LinPEAS.sh, mimikatz, mimipenguin.sh, PwnKit, PwnKit.sh, PwnKit32
+This contains: LinEnum.sh, LinPEAS.sh, mimipenguin.sh, PwnKit, PwnKit.sh, PwnKit32
 
 Windows:
 
