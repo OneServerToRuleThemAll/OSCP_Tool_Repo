@@ -1,0 +1,88 @@
+# OSCP Reference guides:
+
+https://github.com/saisathvik1/OSCP-Cheatsheet
+
+https://github.com/0xsyr0/OSCP
+
+https://eins.li/posts/oscp-secret-sauce/
+
+https://medium.com/@redefiningreality/your-bs-less-guide-to-acing-oscp-4eccaf497410
+
+https://github.com/0x4D31/awesome-oscp
+
+https://medium.com/@Fanicia/oscp-prep-introducing-my-runbooks-enumeration-46d7ce270033
+
+https://github.com/xsudoxx/OSCP
+
+https://github.com/tjnull/OSCP-Stuff/tree/master/Priv-esc/Linux
+
+https://github.com/MAX-P0W3R/Cheat-Sheets
+
+https://wadcoms.github.io/
+
+---------------------------------------------------------------------------------------------------
+
+# Shells web, reverse, and otherwise:
+
+https://www.revshells.com/
+
+https://github.com/leonjza/wordpress-shell
+
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom
+
+https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/
+
+
+---------------------------------------------------------------------------------------------------
+
+# PrivEsc
+
+--Linux--
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+
+https://book.hacktricks.xyz/linux-hardening/privilege-escalation
+
+https://gtfobins.github.io/
+
+https://nored0x.github.io/penetration%20testing/Linux-Post-Exploitation-Command-List/
+
+https://github.com/sujayadkesar/Linux-Privilege-Escalation?tab=readme-ov-file
+
+
+--Windows--
+https://jlajara.gitlab.io/Potatoes_Windows_Privesc
+
+https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+
+
+---------------------------------------------------------------------------------------------------
+
+# Hashes (cracking/ID)
+
+https://crackstation.net/
+
+https://hashes.com/en/tools/hash_identifier
+
+
+---------------------------------------------------------------------------------------------------
+
+
+# Misc
+
+CyberChef - https://gchq.github.io/CyberChef/
+
+Path traversal strings - https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Directory%20Traversal/Intruder/traversals-8-deep-exotic-encoding.txt
+
+CVE Search for exploit code - https://vulmon.com/
+
+Spawn contianer for compiling code on a target OS - https://github.com/X0RW3LL/XenSpawn
+
+LigoloNG github repo (tunneling) - https://github.com/nicocha30/ligolo-ng/releases
+
+Bloodhound Cipher cheatsheet - https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
