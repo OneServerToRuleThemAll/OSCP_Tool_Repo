@@ -1,3 +1,9 @@
+# Preface
+The OSCP is designed to break your spirit and crush your soul. To slightly alleviate this, I've compiled a mediocre repository of tools and links. TrY hArDeR :)
+
+![bean](https://media0.giphy.com/media/Uh1ZPq7mA7xa8/giphy.gif?cid=6c09b952dt2eb1jeo0zuj2y5vp75pchibwa5954l1hanl03o&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 # OSCP Tool Repo
 Quick and dirty repo of tools for the OSCP. This list is not exhaustive, its pretty shit, but can get you running with (some of) the essentials from a fresh install.
 
