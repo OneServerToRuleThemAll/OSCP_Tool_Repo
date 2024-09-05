@@ -37,7 +37,7 @@ This contains two categories: Linux and Windows
 
 Linux:
 
-This contains: LinEnum.sh, LinPEAS.sh, mimipenguin.sh, PwnKit, PwnKit.sh, PwnKit32
+This contains: LinEnum.sh, LinPEAS.sh, mimikatz, mimipenguin.sh, PwnKit, PwnKit.sh, PwnKit32
 
 Windows:
 
