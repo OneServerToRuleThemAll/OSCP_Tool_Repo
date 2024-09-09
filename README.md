@@ -49,7 +49,7 @@ This contains: LinEnum.sh, LinPEAS.sh, mimipenguin.sh, PwnKit, PwnKit.sh, PwnKit
 
 Windows:
 
-This contains: JuicyPotato (both x64 and x86 variants), GMSAPasswordReader.exe (used for service accounts), mimikatz.exe, mimikatz_32.exe, PowerUp.ps1, PowerView.ps1, PrivescCheck.ps1, SharpUp.exe, Seatbelt.exe, winPEASx64, and WSuspicious
+This contains: JuicyPotato (both x64 and x86 variants), GMSAPasswordReader.exe (used for service accounts), mimikatz.exe, mimikatz_32.exe, PowerUp.ps1, PowerView.ps1, PrivescCheck.ps1, SharpUp.exe, Seatbelt.exe, Windows Exploit Suggester NG(wesng), winPEASx64, and WSuspicious
 
 
 # Utilities
